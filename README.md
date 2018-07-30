@@ -2,15 +2,14 @@
 Table of Contents
 =================
 
-*   [Project Overview]
-    *   [Detailed Summary]
-*   [Installation Guide]
-    *   [Environment Requirements]
-    *   [Dependencies]
-    *   [Distribution Files]
-    *   [Installation Instructions]
-    *   [Test Cases]
-*   [User Guide]
+*   Project Overview
+*   Installation Guide
+    *   Environment Requirements
+    *   Dependencies
+    *   Distribution Files
+    *   Installation Instructions
+    *   Test Cases
+*   User Guide
 
 Project Overview
 ================
@@ -18,9 +17,6 @@ Project Overview
 **Project Name:** Property Graph Model (PGM) C++ under the Task Analytical Performance Modeling (APM)
 **Contact:** Arun Sathanur and/or Sutanay Choudhury. Email (for either) first_name.last_name@pnnl.gov
 
-
-Detailed Summary
-----------------
 
 PGM-C++ is a C++/OpenMP software tool to generate statisitically equivalent property graphs from a given source property graph. The tool is currently capable of generating target datasets of similar or expanded sizes when compared to the source dataset. Property graphs can be used to represent heterogeneous networks with labeled (attributed) vertices and edges.Given a property graph, simulating another graph with same or greater size with the same statistical properties with respect to the labels and connectivity is critical for privacy preservation and benchmarking purposes. In this work we tackle the problem of capturing the statistical dependence of the edge connectivity on the vertex labels and using the same distribution to regenerate property graphs of the same or expanded size in a scalable manner. However, accurate simulation becomes a challenge when the attributes do not completely explain the network structure.  Our Property Graph Model (PGM) approach uses a label augmentation strategy to mitigate this problem and preserve the vertex label and the edge connectivity distributions as well as their correlation, while also replicating the degree distribution. We refer the reader to our CIKM 2017 paper for further details on the methods.
 
