@@ -1,0 +1,21 @@
+Working_Dir ../data/role/
+Source_Graph_File role.edges
+Source_Attributes_File role-labels.txt
+Target_Graph_File role-op.edges
+Target_Attributes_File role-op.labels
+Number_Target_Graph_Nodes 2000
+Number_Target_Graph_Edges 93200
+Number_Attributes 2
+Attribute_Cardinalities 2 2
+Node_Probability_Threshold 1e-6
+Edge_Probability_Threshold 1e-7
+Augment_Label_Cardinality 0
+Random_Seed 10
+Augmentation_Type Linear
+OpenMP 4
+
+
+
+
+
+

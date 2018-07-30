@@ -1,0 +1,21 @@
+Working_Dir ../data/pa/
+Source_Graph_File pa.edges
+Source_Attributes_File pa-labels.txt
+Target_Graph_File pa-op.edges
+Target_Attributes_File pa-op.labels
+Number_Target_Graph_Nodes 2000
+Number_Target_Graph_Edges 30000
+Number_Attributes 2
+Attribute_Cardinalities 2 2
+Node_Probability_Threshold 1e-6
+Edge_Probability_Threshold 1e-7
+Augment_Label_Cardinality 8
+Random_Seed 10
+Augmentation_Type Linear
+OpenMP 4
+
+
+
+
+
+
