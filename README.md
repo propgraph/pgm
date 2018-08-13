@@ -23,6 +23,7 @@ PGM-C++ is a C++/OpenMP software tool to generate statisitically equivalent prop
 Citation: Sathanur, Arun V., Sutanay Choudhury, Cliff Joslyn, and Sumit Purohit. "When Labels Fall Short: Property Graph Simulation via Blending of Network Structure and Vertex Attributes." In Proceedings of the 2017 ACM on Conference on Information and Knowledge Management, pp. 2287-2290. ACM, 2017.
 
 ACM link to the paper: https://dl.acm.org/citation.cfm?id=3133065
+
 arXiv link to the paper: https://arxiv.org/abs/1709.02339 
 
 
